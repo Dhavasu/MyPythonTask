@@ -1,0 +1,12 @@
+setup.py
+mypackage.egg-info/PKG-INFO
+mypackage.egg-info/SOURCES.txt
+mypackage.egg-info/dependency_links.txt
+mypackage.egg-info/top_level.txt
+package/__init__.py
+package/file_utils.py
+package/math_utils.py
+package/string_utils.py
+tests/test_file_utils.py
+tests/test_math_utils.py
+tests/test_string_utils.py
